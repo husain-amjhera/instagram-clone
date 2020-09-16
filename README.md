@@ -2,6 +2,8 @@
 
 #### _Take a look:_
 
+![clone image](https://github.com/husain-amjhera/instagram-clone/blob/master/images/insta-clone1.PNG?raw=true)
+
 #### _Try it Live:_
 
 [CLICK HERE](https://messenger-clone-cbec6.web.app/)
